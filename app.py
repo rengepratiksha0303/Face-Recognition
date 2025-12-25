@@ -36,7 +36,7 @@
       "execution_count": 2,
       "metadata": {
         "id": "wd1UQBs7Nnfs",
-        "collapsed": true
+        "collapsed": True
       },
       "outputs": [],
       "source": [
