@@ -1,0 +1,22 @@
+# Data processing
+numpy>=1.19.0
+pandas>=1.1.0
+scikit-learn>=0.24.0
+
+# Image handling
+opencv-python>=4.5.0
+matplotlib>=3.3.0
+
+# Deep learning
+tensorflow>=2.5.0
+keras>=2.5.0
+
+# Utilities
+tqdm>=4.59.0
+
+# (Optional) For Jupyter / Notebook support
+jupyterlab>=3.0.0
+ipython>=7.22.0
+
+# Data augmentation (optional)
+imgaug>=0.4.0
